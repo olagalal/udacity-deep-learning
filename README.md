@@ -8,6 +8,8 @@
 * [Student Admission](/student-admissions): Learn to apply gradient descent to predicting patterns in student admissions data.
 * [Linear Regeression](/linear-regression): Work with data on the average life expectancy at birth and the average BMI for males across the world.
 * [Sentiment Analysis with NumPy](/sentiment-network): [Andrew Trask](http://iamtrask.github.io/) leads me through building a sentiment analysis model, predicting if some text is positive or negative.
+* [Student Admission with Keras](/student-admissions-keras): Build a neural network which analyzes the dataset of student admissions at UCLA that we've previously studied.
+
 
 ### Projects
 * [Predicting Bike-Sharing Patterns](/first-neural-network): Implement a neural network in NumPy to predict bike rentals.
