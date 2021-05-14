@@ -3,7 +3,8 @@
 ✨ This repo contains my projects and tutorials for my **Udacity - Deep Learning**. You can find my certificate [here](https://graduation.udacity.com/confirm/9JE55AA).
 
 ## Tutorials & Projects
-
+### Introduction to Neural Networks
+* [Gradient Descent](/gradient-descent): Learn how to implement gradient descent.
 
 ### Projects
 * [Predicting Bike-Sharing Patterns](/first-neural-network): Implement a neural network in NumPy to predict bike rentals.
