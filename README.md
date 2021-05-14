@@ -9,6 +9,7 @@
 * [Linear Regeression](/linear-regression): Work with data on the average life expectancy at birth and the average BMI for males across the world.
 * [Sentiment Analysis with NumPy](/sentiment-network): [Andrew Trask](http://iamtrask.github.io/) leads me through building a sentiment analysis model, predicting if some text is positive or negative.
 * [Student Admission with Keras](/student-admissions-keras): Build a neural network which analyzes the dataset of student admissions at UCLA that we've previously studied.
+* [IMDB with Keras](/IMDB-keras): in this project you will analyze a dataset from IMDB and use it to predict the sentiment analysis of a review.
 
 
 ### Projects
