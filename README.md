@@ -6,6 +6,7 @@
 ### Introduction to Neural Networks
 * [Gradient Descent](/gradient-descent): Learn how to implement gradient descent.
 * [Student Admission](/student-admissions): Learn to apply gradient descent to predicting patterns in student admissions data.
+* [Linear Regeression](/linear-regression): Work with data on the average life expectancy at birth and the average BMI for males across the world.
 
 ### Projects
 * [Predicting Bike-Sharing Patterns](/first-neural-network): Implement a neural network in NumPy to predict bike rentals.
