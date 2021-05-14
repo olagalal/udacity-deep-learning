@@ -8,3 +8,4 @@
 ### Projects
 * [Predicting Bike-Sharing Patterns](/first-neural-network): Implement a neural network in NumPy to predict bike rentals.
 * [Dog Breed Classifier](/dog-breed-classifier): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
+* [TV Script Generation](/tv-script-generation): Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
