@@ -5,6 +5,7 @@
 ## Tutorials & Projects
 ### Introduction to Neural Networks
 * [Gradient Descent](/gradient-descent): Learn how to implement gradient descent.
+* [Student Admission](/student-admissions): Learn to apply gradient descent to predicting patterns in student admissions data.
 
 ### Projects
 * [Predicting Bike-Sharing Patterns](/first-neural-network): Implement a neural network in NumPy to predict bike rentals.
